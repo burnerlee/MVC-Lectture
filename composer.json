@@ -1,0 +1,8 @@
+{
+    "name":"MVC Lecture",
+    "description":"My first MVC Application",
+
+    "require": {
+        "torophp/torophp": "dev-master"
+    }
+}
